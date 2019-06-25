@@ -1,0 +1,8 @@
+INTSTYLE=ise
+INFILE=/home/andyescobar007/Escritorio/Piano/PianoJulio/piano_ise/piano.ncd
+OUTFILE=/home/andyescobar007/Escritorio/Piano/PianoJulio/piano_ise/piano.bit
+FAMILY=Spartan6
+PART=xc6slx9-3csg324
+WORKINGDIR=/home/andyescobar007/Escritorio/Piano/PianoJulio/piano_ise
+LICENSE=WebPack
+USER_INFO=__0_0_0

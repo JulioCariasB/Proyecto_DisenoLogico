@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- IMPORTANT: This is an internal file that has been generated
+     by the Xilinx ISE software.  Any direct editing or
+     changes made to this file may result in unpredictable
+     behavior or data corruption.  It is strongly advised that
+     users do not edit the contents of this file. -->
+<messages>
+<msg type="warning" file="HDLCompiler" num="1016" delta="old" >"/home/andyescobar007/Escritorio/Piano/PianoJulio/piano.v" Line 401: Port <arg fmt="%s" index="1">ovf</arg> is not connected to this instance
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="1016" delta="old" >"/home/andyescobar007/Escritorio/Piano/PianoJulio/piano.v" Line 410: Port <arg fmt="%s" index="1">ovf</arg> is not connected to this instance
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="1016" delta="old" >"/home/andyescobar007/Escritorio/Piano/PianoJulio/piano.v" Line 419: Port <arg fmt="%s" index="1">ovf</arg> is not connected to this instance
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="1016" delta="old" >"/home/andyescobar007/Escritorio/Piano/PianoJulio/piano.v" Line 428: Port <arg fmt="%s" index="1">ovf</arg> is not connected to this instance
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="1016" delta="old" >"/home/andyescobar007/Escritorio/Piano/PianoJulio/piano.v" Line 437: Port <arg fmt="%s" index="1">ovf</arg> is not connected to this instance
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="1016" delta="old" >"/home/andyescobar007/Escritorio/Piano/PianoJulio/piano.v" Line 446: Port <arg fmt="%s" index="1">ovf</arg> is not connected to this instance
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="1016" delta="old" >"/home/andyescobar007/Escritorio/Piano/PianoJulio/piano.v" Line 455: Port <arg fmt="%s" index="1">ovf</arg> is not connected to this instance
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="1016" delta="old" >"/home/andyescobar007/Escritorio/Piano/PianoJulio/piano.v" Line 477: Port <arg fmt="%s" index="1">&gt;</arg> is not connected to this instance
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="1016" delta="old" >"/home/andyescobar007/Escritorio/Piano/PianoJulio/piano.v" Line 485: Port <arg fmt="%s" index="1">&gt;</arg> is not connected to this instance
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="1016" delta="old" >"/home/andyescobar007/Escritorio/Piano/PianoJulio/piano.v" Line 493: Port <arg fmt="%s" index="1">&gt;</arg> is not connected to this instance
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="1016" delta="old" >"/home/andyescobar007/Escritorio/Piano/PianoJulio/piano.v" Line 501: Port <arg fmt="%s" index="1">&gt;</arg> is not connected to this instance
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="1016" delta="old" >"/home/andyescobar007/Escritorio/Piano/PianoJulio/piano.v" Line 509: Port <arg fmt="%s" index="1">ovf</arg> is not connected to this instance
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="1016" delta="old" >"/home/andyescobar007/Escritorio/Piano/PianoJulio/piano.v" Line 518: Port <arg fmt="%s" index="1">&gt;</arg> is not connected to this instance
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="1016" delta="old" >"/home/andyescobar007/Escritorio/Piano/PianoJulio/piano.v" Line 526: Port <arg fmt="%s" index="1">&gt;</arg> is not connected to this instance
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="1016" delta="old" >"/home/andyescobar007/Escritorio/Piano/PianoJulio/piano.v" Line 534: Port <arg fmt="%s" index="1">&gt;</arg> is not connected to this instance
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="new" >&quot;<arg fmt="%s" index="1">/home/andyescobar007/Escritorio/Piano/PianoJulio/piano.v</arg>&quot; line <arg fmt="%s" index="2">404</arg>: Output port &lt;<arg fmt="%s" index="3">ovf</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">DIG_Counter_Nbit_i0</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="new" >&quot;<arg fmt="%s" index="1">/home/andyescobar007/Escritorio/Piano/PianoJulio/piano.v</arg>&quot; line <arg fmt="%s" index="2">413</arg>: Output port &lt;<arg fmt="%s" index="3">ovf</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">DIG_Counter_Nbit_i1</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="new" >&quot;<arg fmt="%s" index="1">/home/andyescobar007/Escritorio/Piano/PianoJulio/piano.v</arg>&quot; line <arg fmt="%s" index="2">422</arg>: Output port &lt;<arg fmt="%s" index="3">ovf</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">DIG_Counter_Nbit_i2</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="new" >&quot;<arg fmt="%s" index="1">/home/andyescobar007/Escritorio/Piano/PianoJulio/piano.v</arg>&quot; line <arg fmt="%s" index="2">431</arg>: Output port &lt;<arg fmt="%s" index="3">ovf</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">DIG_Counter_Nbit_i3</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="new" >&quot;<arg fmt="%s" index="1">/home/andyescobar007/Escritorio/Piano/PianoJulio/piano.v</arg>&quot; line <arg fmt="%s" index="2">440</arg>: Output port &lt;<arg fmt="%s" index="3">ovf</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">DIG_Counter_Nbit_i4</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="new" >&quot;<arg fmt="%s" index="1">/home/andyescobar007/Escritorio/Piano/PianoJulio/piano.v</arg>&quot; line <arg fmt="%s" index="2">449</arg>: Output port &lt;<arg fmt="%s" index="3">ovf</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">DIG_Counter_Nbit_i5</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="new" >&quot;<arg fmt="%s" index="1">/home/andyescobar007/Escritorio/Piano/PianoJulio/piano.v</arg>&quot; line <arg fmt="%s" index="2">458</arg>: Output port &lt;<arg fmt="%s" index="3">ovf</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">DIG_Counter_Nbit_i6</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="new" >&quot;<arg fmt="%s" index="1">/home/andyescobar007/Escritorio/Piano/PianoJulio/piano.v</arg>&quot; line <arg fmt="%s" index="2">480</arg>: Output port &lt;<arg fmt="%s" index="3">&gt;</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">CompUnsigned_i8</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="new" >&quot;<arg fmt="%s" index="1">/home/andyescobar007/Escritorio/Piano/PianoJulio/piano.v</arg>&quot; line <arg fmt="%s" index="2">480</arg>: Output port &lt;<arg fmt="%s" index="3">&lt;</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">CompUnsigned_i8</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="new" >&quot;<arg fmt="%s" index="1">/home/andyescobar007/Escritorio/Piano/PianoJulio/piano.v</arg>&quot; line <arg fmt="%s" index="2">488</arg>: Output port &lt;<arg fmt="%s" index="3">&gt;</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">CompUnsigned_i9</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="new" >&quot;<arg fmt="%s" index="1">/home/andyescobar007/Escritorio/Piano/PianoJulio/piano.v</arg>&quot; line <arg fmt="%s" index="2">488</arg>: Output port &lt;<arg fmt="%s" index="3">&lt;</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">CompUnsigned_i9</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="new" >&quot;<arg fmt="%s" index="1">/home/andyescobar007/Escritorio/Piano/PianoJulio/piano.v</arg>&quot; line <arg fmt="%s" index="2">496</arg>: Output port &lt;<arg fmt="%s" index="3">&gt;</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">CompUnsigned_i10</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="new" >&quot;<arg fmt="%s" index="1">/home/andyescobar007/Escritorio/Piano/PianoJulio/piano.v</arg>&quot; line <arg fmt="%s" index="2">496</arg>: Output port &lt;<arg fmt="%s" index="3">&lt;</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">CompUnsigned_i10</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="new" >&quot;<arg fmt="%s" index="1">/home/andyescobar007/Escritorio/Piano/PianoJulio/piano.v</arg>&quot; line <arg fmt="%s" index="2">504</arg>: Output port &lt;<arg fmt="%s" index="3">&gt;</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">CompUnsigned_i11</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="new" >&quot;<arg fmt="%s" index="1">/home/andyescobar007/Escritorio/Piano/PianoJulio/piano.v</arg>&quot; line <arg fmt="%s" index="2">504</arg>: Output port &lt;<arg fmt="%s" index="3">&lt;</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">CompUnsigned_i11</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="new" >&quot;<arg fmt="%s" index="1">/home/andyescobar007/Escritorio/Piano/PianoJulio/piano.v</arg>&quot; line <arg fmt="%s" index="2">512</arg>: Output port &lt;<arg fmt="%s" index="3">ovf</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">DIG_Counter_Nbit_i12</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="new" >&quot;<arg fmt="%s" index="1">/home/andyescobar007/Escritorio/Piano/PianoJulio/piano.v</arg>&quot; line <arg fmt="%s" index="2">521</arg>: Output port &lt;<arg fmt="%s" index="3">&gt;</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">CompUnsigned_i13</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="new" >&quot;<arg fmt="%s" index="1">/home/andyescobar007/Escritorio/Piano/PianoJulio/piano.v</arg>&quot; line <arg fmt="%s" index="2">521</arg>: Output port &lt;<arg fmt="%s" index="3">&lt;</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">CompUnsigned_i13</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="new" >&quot;<arg fmt="%s" index="1">/home/andyescobar007/Escritorio/Piano/PianoJulio/piano.v</arg>&quot; line <arg fmt="%s" index="2">529</arg>: Output port &lt;<arg fmt="%s" index="3">&gt;</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">CompUnsigned_i14</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="new" >&quot;<arg fmt="%s" index="1">/home/andyescobar007/Escritorio/Piano/PianoJulio/piano.v</arg>&quot; line <arg fmt="%s" index="2">529</arg>: Output port &lt;<arg fmt="%s" index="3">&lt;</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">CompUnsigned_i14</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="new" >&quot;<arg fmt="%s" index="1">/home/andyescobar007/Escritorio/Piano/PianoJulio/piano.v</arg>&quot; line <arg fmt="%s" index="2">537</arg>: Output port &lt;<arg fmt="%s" index="3">&gt;</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">CompUnsigned_i15</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="new" >&quot;<arg fmt="%s" index="1">/home/andyescobar007/Escritorio/Piano/PianoJulio/piano.v</arg>&quot; line <arg fmt="%s" index="2">537</arg>: Output port &lt;<arg fmt="%s" index="3">&lt;</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">CompUnsigned_i15</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="warning" file="Xst" num="2999" delta="old" >Signal &apos;<arg fmt="%s" index="1">my_rom</arg>&apos;, unconnected in block &apos;<arg fmt="%s" index="2">DIG_ROM_256X8_ROM</arg>&apos;, is tied to its initial value.
+</msg>
+
+<msg type="info" file="Xst" num="3218" delta="old" >HDL ADVISOR - The RAM &lt;<arg fmt="%s" index="1">Mram_my_rom</arg>&gt; will be implemented on LUTs either because you have described an asynchronous read or because of currently unsupported block RAM features. If you have described an asynchronous read, making it synchronous would allow you to take advantage of available block RAM resources, for optimized device usage and improved timings. Please refer to your documentation for coding guidelines.
+</msg>
+
+<msg type="info" file="Xst" num="2261" delta="new" >The FF/Latch &lt;<arg fmt="%s" index="1">DIG_Counter_Nbit_i5/count_0</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">piano</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">FF/Latch</arg>, which will be removed : <arg fmt="%s" index="4">&lt;DIG_Counter_Nbit_i4/count_0&gt; </arg>
+</msg>
+
+<msg type="info" file="Xst" num="2169" delta="old" >HDL ADVISOR - Some clock signals were not automatically buffered by XST with BUFG/BUFR resources. Please use the buffer_type constraint in order to insert these buffers to the clock signals to help prevent skew problems.
+</msg>
+
+</messages>
+

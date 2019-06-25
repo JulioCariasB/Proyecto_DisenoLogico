@@ -1,0 +1,24 @@
+//! **************************************************************************
+// Written by: Map P.20131013 on Mon Jun 24 09:58:33 2019
+//! **************************************************************************
+
+SCHEMATIC START;
+COMP "CLK" LOCATE = SITE "V10" LEVEL 1;
+COMP "bntDo" LOCATE = SITE "M18" LEVEL 1;
+COMP "btnFa" LOCATE = SITE "L17" LEVEL 1;
+COMP "btnLa" LOCATE = SITE "K18" LEVEL 1;
+COMP "btnMi" LOCATE = SITE "M16" LEVEL 1;
+COMP "btnRe" LOCATE = SITE "L18" LEVEL 1;
+COMP "btnSi" LOCATE = SITE "C17" LEVEL 1;
+COMP "bntSol" LOCATE = SITE "K17" LEVEL 1;
+COMP "Sonido<0>" LOCATE = SITE "H17" LEVEL 1;
+COMP "Sonido<1>" LOCATE = SITE "H18" LEVEL 1;
+COMP "Sonido<2>" LOCATE = SITE "J16" LEVEL 1;
+COMP "Sonido<3>" LOCATE = SITE "J18" LEVEL 1;
+COMP "Sonido<4>" LOCATE = SITE "K15" LEVEL 1;
+COMP "Sonido<5>" LOCATE = SITE "K16" LEVEL 1;
+COMP "Sonido<6>" LOCATE = SITE "L15" LEVEL 1;
+COMP "Sonido<7>" LOCATE = SITE "L16" LEVEL 1;
+NET "CLK_BUFGP/IBUFG" PERIOD = 10 ns HIGH 50%;
+SCHEMATIC END;
+
